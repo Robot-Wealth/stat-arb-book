@@ -1,0 +1,16 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: table_of_contents
+- file: real_world_take_on_pair_trading
+- file: general_approach_stat_arb
+- file: ideas_for_crypto_stat_arb_features
+- file: quantifying_and_combining_alphas
+- file: navigating_cost_tradeoffs_with_heuristics
+- file: modeling_features_as_expected_returns
+- file: optimisation_intuition
+- file: navigating_tradeoffs_with_optimisation
+- file: conclusions
