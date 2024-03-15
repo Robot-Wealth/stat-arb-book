@@ -4,7 +4,7 @@
 format: jb-book
 root: intro
 chapters:
-- file: table_of_contents
+# - file: table_of_contents
 - file: real_world_take_on_pair_trading
 - file: general_approach_stat_arb
 - file: ideas_for_crypto_stat_arb_features

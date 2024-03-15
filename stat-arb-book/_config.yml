@@ -4,6 +4,8 @@
 # build html
 # jupyter-book build stat-arb-book/
 # build pdf
+# set PYPPETEER_CHROMIUM_REVISION=1263111
+# delete existing _build dir
 # jupyter-book build stat-arb-book/ --builder pdfhtml
 
 

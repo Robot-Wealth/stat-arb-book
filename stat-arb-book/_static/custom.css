@@ -1,0 +1,9 @@
+a.skip-link {
+  display: none;
+}
+
+@media print {
+	section {
+	  page-break-before: always;
+	}
+}

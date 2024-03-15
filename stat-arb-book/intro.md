@@ -1,5 +1,9 @@
 # Beyond the Numbers: A Trader's Guide to Statistical Arbitrage and Convex Optimization
 
+## Introduction
+
+![](https://robotwealth.com/wp-content/uploads/2024/03/intro_image.webp)
+
 This ebook consolidates work that was originally published as a series of articles on [robotwealth.com](https://robotwealth.com) on statistical arbitrage. 
 
 It introduces practical considerations for pairs trading as I encountered it in professional trading environments. The simplicity contained in these approaches may be surprising. 

@@ -1,5 +1,7 @@
 # A Real World Take on Pairs Trading
 
+![](https://robotwealth.com/wp-content/uploads/2024/03/beyond_the_numbers.webp)
+
 In textbooks, one often sees pairs trading algorithms start by regressing prices of Asset A on Asset B to calculate a hedge ratio.
 
 I’ve rarely seen anyone actually do this in the real world.
